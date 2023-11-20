@@ -8,7 +8,7 @@ My name is Nick. I'm a machine learning and deep learning developer specializing
 - **Python** 
 - **HTML/CSS** (base)
 - **JavaScript** (lame)
-- **Kotlin** (upper-lame 😋)
+- **Kotlin** (upper-lame)
 
 ### Emerging Skills (currently learning)
 - **Algorithms:** Leetcode - our daily bread
