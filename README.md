@@ -11,7 +11,6 @@ My name is Nick. I'm a machine learning and deep learning developer specializing
 - **Kotlin** (upper-lame)
 
 ### Emerging Skills (currently learning)
-- **Algorithms:** Leetcode - our daily bread
 - **ML/DL:** Courses from Samsung and Yandex, as well as university studies
 - **React:** Eager to become friends with it, and so far, everything is heading in the right direction
 
