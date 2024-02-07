@@ -6,9 +6,9 @@ My name is Nick. I'm a machine learning and deep learning developer specializing
 
 ### Tools
 - **Python** 
-- **HTML/CSS** (base)
-- **JavaScript** (lame)
-- **Kotlin** (upper-lame)
+- **HTML/CSS**
+- **JavaScript**
+- **Kotlin**
 
 ### Emerging Skills (currently learning)
 - **ML/DL:** Courses from Samsung and Yandex, as well as university studies
