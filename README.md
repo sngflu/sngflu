@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Nick. I'm a machine learning and deep learning developer specializing in the Python. 
+My name is Nick. I'm a machine learning and deep learning developer specializing in Python. 
 
 ## 🔧 Skills and Technologies
 
