@@ -15,7 +15,7 @@ My name is Nick. I'm a machine learning and deep learning developer specializing
 - **React:** Eager to become friends with it, and so far, everything is heading in the right direction
 
 ## 📚 Education and Work
-I am currently a 4th-year bachelor's student majoring in "Intelligent Systems and Machine Learning." I briefly worked as a teacher at a programming school for children.
+I am currently a 4th-year bachelor's student majoring in "Intelligent Systems and Machine Learning". I briefly worked as a teacher at a programming school for children.
 
 ## 🚀 Projects
 ### Personal
