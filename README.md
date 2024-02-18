@@ -33,6 +33,6 @@ I often spend my free time reading or watching various videos. I have a strong f
 I want to contribute to the development of the AI and ML industry, tackle interesting problems and apply AI wherever possible to benefit people.
 
 ## 🏆 Achievements
-- 🏅 23-25.06.2023 – 4th Place at the "Digital Breakthrough. Season: Artificial Intelligence" (Urals Federal District) hackathon.
-- 🥇 25-27.08.2023 – 1st Place at the "Digital Breakthrough. Season: Artificial Intelligence" (North-Western Federal District) hackathon.
-- 🥉 08-10.09.2023 – 3rd Place at the "Digital Breakthrough. Season: Artificial Intelligence" (All-Russian) hackathon.
+- 🏅 23-25.06.2023 – 4th Place at the ["Digital Breakthrough. Season: Artificial Intelligence" (Urals Federal District)](https://hacks-ai.ru/hackathons.html?eventId=969074&caseEl=981726&tab=3) hackathon.
+- 🥇 25-27.08.2023 – 1st Place at the ["Digital Breakthrough. Season: Artificial Intelligence" (North-Western Federal District)](https://hacks-ai.ru/hackathons.html?eventId=969079&caseEl=993800&tab=3) hackathon.
+- 🥉 08-10.09.2023 – 3rd Place at the ["Digital Breakthrough. Season: Artificial Intelligence" (All-Russian)](https://hacks-ai.ru/hackathons.html?eventId=969091&caseEl=1002709&tab=3) hackathon.
